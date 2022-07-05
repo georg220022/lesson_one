@@ -12,10 +12,10 @@ print("Baltika 9 is a great beer!")
 print('а вот и изменение!')
 
 
-def valeron(baltika: str):
-    return One_func(baltika)
+def valeron(func):
+    return func()
 
 
 baltika = "Baltika 9 is a great beer!"
 
-print(valeron(baltika))
+print(valeron(My_func))
