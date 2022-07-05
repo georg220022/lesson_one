@@ -4,6 +4,6 @@ def One_func(obj: str) -> str:
     return obj #Возвращаем перевернутую сьроку
 print('изменение в ветке моей')
 stroka = 'На вход идет эта строка'
+output  = 'а на выход эта'
 print(One_func(stroka))
 
-input()
