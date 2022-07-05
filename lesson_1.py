@@ -4,4 +4,4 @@ def valeron(func):
 
 baltika = "Baltika 9 is a great beer!"
 
-print(123)
+print(valeron(My_func)
