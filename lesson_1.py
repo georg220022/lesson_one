@@ -6,3 +6,4 @@ stroka = 'На вход идет эта строка'
 print(One_func(stroka))
 
 print("Baltika 9 is a great beer!")
+print("Baltika 9 is a great beer!")
