@@ -6,4 +6,4 @@ print('изменение в ветке моей')
 stroka = 'На вход идет эта строка'
 print(One_func(stroka))
 
-print('По пивку?!')
+input()
