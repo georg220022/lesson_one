@@ -4,3 +4,12 @@ def One_func(obj: str) -> str:
 
 stroka = 'На вход идет эта строка'
 print(One_func(stroka))
+
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
+print('Baltika 9 is a nice beer!')
